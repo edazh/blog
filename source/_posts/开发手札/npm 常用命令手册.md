@@ -1,6 +1,6 @@
 ---
 title: npm 常用命令手册
-date: 2024-12-24 23:59
+date: 2023-12-24 23:59
 tags: ['前端', 'mpm']
 categories: 开发手札
 ---

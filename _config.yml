@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "edazh的博客"
+title: "益达z的博客"
 subtitle: "edazh's blog"
 description: "高山仰止，景行行止。虽不能至，然心向往之。"
 author: edazh
@@ -55,7 +55,10 @@ external_link:
   exclude: ""
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
+# marked:
+#   prependRoot: true
+#   postAsset: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js

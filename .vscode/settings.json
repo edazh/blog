@@ -1,4 +1,7 @@
 {
   "cSpell.words": ["pinia"],
-  "hexo.includeDraft": true
+  "hexo.includeDraft": true,
+  "gutterpreview.paths": {
+    "/images": "${workspaceFolder}/source/images"
+  }
 }

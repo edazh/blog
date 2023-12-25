@@ -138,9 +138,9 @@ sidebar:
 # Sidebar Avatar
 avatar:
   # Replace the default image and set the url here.
-  url: "http://ys-k.ys168.com/578705569/igjfMjq4J4J6J3X5NTJ/%E6%8D%82%E8%84%B8%E7%8C%AB.png"
+  url: /images/avatar.png
   # If true, the avatar will be displayed in circle.
-  rounded: false
+  rounded: true
   # If true, the avatar will be rotated with the cursor.
   rotated: false
 
@@ -707,19 +707,19 @@ livere_uid: # <your_uid>
 # Gitalk
 # For more information: https://gitalk.github.io
 gitalk:
-  enable: false
-  github_id: # GitHub repo owner
-  repo: # Repository name to store issues
-  client_id: # GitHub Application Client ID
-  client_secret: # GitHub Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  enable: true
+  github_id: edazh # GitHub repo owner
+  repo: blog # Repository name to store issues
+  client_id: 5d321dfc42103b30812f # GitHub Application Client ID
+  client_secret: 7102dd17f518e337e6f09096c8202a2e13ea10e1 # GitHub Application Client Secret
+  admin_user: edazh # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # When the official proxy is not available, you can change it to your own proxy address
   proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
-  language:
+  language: zh-CN
 
 # Utterances
 # For more information: https://utteranc.es

@@ -1,6 +1,6 @@
 ---
 title: uni-app 项目搭建手册
-date: 2024-12-25 0:00
+date: 2023-12-25 00:00
 tags: ['前端', 'uni-app']
 categories: 开发手札
 ---

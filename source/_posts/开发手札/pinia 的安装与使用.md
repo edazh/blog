@@ -1,6 +1,6 @@
 ---
 title: pinia 的安装与使用
-date: 2024-12-24 23:59
+date: 2023-12-24 23:59
 tags: ['前端', 'pinia']
 categories: 开发手札
 ---
