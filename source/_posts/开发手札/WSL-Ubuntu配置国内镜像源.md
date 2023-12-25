@@ -15,6 +15,8 @@ categories: 开发手札
 6. 更新源：`sudo apt-get update`
 7. 更新软件：`sudo apt-get upgrade`
 
+<!-- more -->
+
 ## pip3 的安装与升级
 
 ```bash
